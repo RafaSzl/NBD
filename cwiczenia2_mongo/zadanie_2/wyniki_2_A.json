@@ -1,0 +1,622 @@
+MongoDB shell version v5.0.6
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("c306f27c-fa3a-4709-950d-ab167887f15a") }
+MongoDB server version: 5.0.6
+[
+	{
+		"_id" : "YER",
+		"totalBalancePerCurrency" : NumberDecimal("583657.38")
+	},
+	{
+		"_id" : "TMT",
+		"totalBalancePerCurrency" : NumberDecimal("113099.62")
+	},
+	{
+		"_id" : "PYG",
+		"totalBalancePerCurrency" : NumberDecimal("286515.48")
+	},
+	{
+		"_id" : "CLP",
+		"totalBalancePerCurrency" : NumberDecimal("388620.14")
+	},
+	{
+		"_id" : "PGK",
+		"totalBalancePerCurrency" : NumberDecimal("61445.27")
+	},
+	{
+		"_id" : "AZN",
+		"totalBalancePerCurrency" : NumberDecimal("394880.17")
+	},
+	{
+		"_id" : "NAD",
+		"totalBalancePerCurrency" : NumberDecimal("55420.34")
+	},
+	{
+		"_id" : "BZD",
+		"totalBalancePerCurrency" : NumberDecimal("24296.69")
+	},
+	{
+		"_id" : "PKR",
+		"totalBalancePerCurrency" : NumberDecimal("687770.55")
+	},
+	{
+		"_id" : "HRK",
+		"totalBalancePerCurrency" : NumberDecimal("689403.50")
+	},
+	{
+		"_id" : "SYP",
+		"totalBalancePerCurrency" : NumberDecimal("501467.35")
+	},
+	{
+		"_id" : "PAB",
+		"totalBalancePerCurrency" : NumberDecimal("363643.61")
+	},
+	{
+		"_id" : "ANG",
+		"totalBalancePerCurrency" : NumberDecimal("21354.39")
+	},
+	{
+		"_id" : "LYD",
+		"totalBalancePerCurrency" : NumberDecimal("197545.65")
+	},
+	{
+		"_id" : "LSL",
+		"totalBalancePerCurrency" : NumberDecimal("26269.07")
+	},
+	{
+		"_id" : "BMD",
+		"totalBalancePerCurrency" : NumberDecimal("5189.0")
+	},
+	{
+		"_id" : "UYU",
+		"totalBalancePerCurrency" : NumberDecimal("231996.14")
+	},
+	{
+		"_id" : "HNL",
+		"totalBalancePerCurrency" : NumberDecimal("817695.24")
+	},
+	{
+		"_id" : "FKP",
+		"totalBalancePerCurrency" : NumberDecimal("5118.97")
+	},
+	{
+		"_id" : "BHD",
+		"totalBalancePerCurrency" : NumberDecimal("22698.46")
+	},
+	{
+		"_id" : "BOB",
+		"totalBalancePerCurrency" : NumberDecimal("257433.54")
+	},
+	{
+		"_id" : "NIO",
+		"totalBalancePerCurrency" : NumberDecimal("240664.87")
+	},
+	{
+		"_id" : "GMD",
+		"totalBalancePerCurrency" : NumberDecimal("157963.90")
+	},
+	{
+		"_id" : "BSD",
+		"totalBalancePerCurrency" : NumberDecimal("55361.39")
+	},
+	{
+		"_id" : "IRR",
+		"totalBalancePerCurrency" : NumberDecimal("804397.05")
+	},
+	{
+		"_id" : "CHF",
+		"totalBalancePerCurrency" : NumberDecimal("108940.64")
+	},
+	{
+		"_id" : "LTL",
+		"totalBalancePerCurrency" : NumberDecimal("220627.42")
+	},
+	{
+		"_id" : "ISK",
+		"totalBalancePerCurrency" : NumberDecimal("39048.74")
+	},
+	{
+		"_id" : "BDT",
+		"totalBalancePerCurrency" : NumberDecimal("294843.38")
+	},
+	{
+		"_id" : "THB",
+		"totalBalancePerCurrency" : NumberDecimal("2084269.88")
+	},
+	{
+		"_id" : "EGP",
+		"totalBalancePerCurrency" : NumberDecimal("528336.14")
+	},
+	{
+		"_id" : "HTG",
+		"totalBalancePerCurrency" : NumberDecimal("215992.13")
+	},
+	{
+		"_id" : "BTN",
+		"totalBalancePerCurrency" : NumberDecimal("37711.08")
+	},
+	{
+		"_id" : "GYD",
+		"totalBalancePerCurrency" : NumberDecimal("13053.50")
+	},
+	{
+		"_id" : "BND",
+		"totalBalancePerCurrency" : NumberDecimal("7782.66")
+	},
+	{
+		"_id" : "PHP",
+		"totalBalancePerCurrency" : NumberDecimal("8223429.02")
+	},
+	{
+		"_id" : "MYR",
+		"totalBalancePerCurrency" : NumberDecimal("666533.65")
+	},
+	{
+		"_id" : "CNY",
+		"totalBalancePerCurrency" : NumberDecimal("27425502.27")
+	},
+	{
+		"_id" : "BBD",
+		"totalBalancePerCurrency" : NumberDecimal("26720.50")
+	},
+	{
+		"_id" : "OMR",
+		"totalBalancePerCurrency" : NumberDecimal("87008.08")
+	},
+	{
+		"_id" : "KPW",
+		"totalBalancePerCurrency" : NumberDecimal("222518.63")
+	},
+	{
+		"_id" : "MNT",
+		"totalBalancePerCurrency" : NumberDecimal("639977.48")
+	},
+	{
+		"_id" : "UAH",
+		"totalBalancePerCurrency" : NumberDecimal("2505840.72")
+	},
+	{
+		"_id" : "IQD",
+		"totalBalancePerCurrency" : NumberDecimal("167531.82")
+	},
+	{
+		"_id" : "EUR",
+		"totalBalancePerCurrency" : NumberDecimal("16700089.28")
+	},
+	{
+		"_id" : "AFN",
+		"totalBalancePerCurrency" : NumberDecimal("661834.75")
+	},
+	{
+		"_id" : "NOK",
+		"totalBalancePerCurrency" : NumberDecimal("760113.61")
+	},
+	{
+		"_id" : "XCD",
+		"totalBalancePerCurrency" : NumberDecimal("168150.01")
+	},
+	{
+		"_id" : "AWG",
+		"totalBalancePerCurrency" : NumberDecimal("7282.73")
+	},
+	{
+		"_id" : "ALL",
+		"totalBalancePerCurrency" : NumberDecimal("651597.87")
+	},
+	{
+		"_id" : "GBP",
+		"totalBalancePerCurrency" : NumberDecimal("243512.86")
+	},
+	{
+		"_id" : "ZWL",
+		"totalBalancePerCurrency" : NumberDecimal("142978.86")
+	},
+	{
+		"_id" : "DZD",
+		"totalBalancePerCurrency" : NumberDecimal("12166.20")
+	},
+	{
+		"_id" : "MMK",
+		"totalBalancePerCurrency" : NumberDecimal("223284.76")
+	},
+	{
+		"_id" : "MKD",
+		"totalBalancePerCurrency" : NumberDecimal("436912.01")
+	},
+	{
+		"_id" : "RWF",
+		"totalBalancePerCurrency" : NumberDecimal("43299.96")
+	},
+	{
+		"_id" : "USD",
+		"totalBalancePerCurrency" : NumberDecimal("4086760.81")
+	},
+	{
+		"_id" : "MRO",
+		"totalBalancePerCurrency" : NumberDecimal("44471.32")
+	},
+	{
+		"_id" : "TOP",
+		"totalBalancePerCurrency" : NumberDecimal("18424.47")
+	},
+	{
+		"_id" : "GHS",
+		"totalBalancePerCurrency" : NumberDecimal("83159.05")
+	},
+	{
+		"_id" : "SGD",
+		"totalBalancePerCurrency" : NumberDecimal("12820.48")
+	},
+	{
+		"_id" : "XPF",
+		"totalBalancePerCurrency" : NumberDecimal("132926.01")
+	},
+	{
+		"_id" : "BAM",
+		"totalBalancePerCurrency" : NumberDecimal("415965.47")
+	},
+	{
+		"_id" : "SRD",
+		"totalBalancePerCurrency" : NumberDecimal("19686.77")
+	},
+	{
+		"_id" : "DKK",
+		"totalBalancePerCurrency" : NumberDecimal("222452.28")
+	},
+	{
+		"_id" : "MZN",
+		"totalBalancePerCurrency" : NumberDecimal("92068.64")
+	},
+	{
+		"_id" : "GTQ",
+		"totalBalancePerCurrency" : NumberDecimal("588368.85")
+	},
+	{
+		"_id" : "MAD",
+		"totalBalancePerCurrency" : NumberDecimal("510936.11")
+	},
+	{
+		"_id" : "VEF",
+		"totalBalancePerCurrency" : NumberDecimal("629053.41")
+	},
+	{
+		"_id" : "BGN",
+		"totalBalancePerCurrency" : NumberDecimal("496641.83")
+	},
+	{
+		"_id" : "ERN",
+		"totalBalancePerCurrency" : NumberDecimal("21598.47")
+	},
+	{
+		"_id" : "VUV",
+		"totalBalancePerCurrency" : NumberDecimal("23188.93")
+	},
+	{
+		"_id" : "AED",
+		"totalBalancePerCurrency" : NumberDecimal("52973.33")
+	},
+	{
+		"_id" : "TWD",
+		"totalBalancePerCurrency" : NumberDecimal("37654.00")
+	},
+	{
+		"_id" : "HUF",
+		"totalBalancePerCurrency" : NumberDecimal("165192.16")
+	},
+	{
+		"_id" : "QAR",
+		"totalBalancePerCurrency" : NumberDecimal("36358.92")
+	},
+	{
+		"_id" : "LAK",
+		"totalBalancePerCurrency" : NumberDecimal("86305.05")
+	},
+	{
+		"_id" : "COP",
+		"totalBalancePerCurrency" : NumberDecimal("1976194.79")
+	},
+	{
+		"_id" : "UGX",
+		"totalBalancePerCurrency" : NumberDecimal("345203.25")
+	},
+	{
+		"_id" : "BRL",
+		"totalBalancePerCurrency" : NumberDecimal("5609900.00")
+	},
+	{
+		"_id" : "AOA",
+		"totalBalancePerCurrency" : NumberDecimal("67582.80")
+	},
+	{
+		"_id" : "XAF",
+		"totalBalancePerCurrency" : NumberDecimal("736336.77")
+	},
+	{
+		"_id" : "ARS",
+		"totalBalancePerCurrency" : NumberDecimal("1940347.24")
+	},
+	{
+		"_id" : "TRY",
+		"totalBalancePerCurrency" : NumberDecimal("18414.53")
+	},
+	{
+		"_id" : "XOF",
+		"totalBalancePerCurrency" : NumberDecimal("934043.61")
+	},
+	{
+		"_id" : "SDG",
+		"totalBalancePerCurrency" : NumberDecimal("127317.75")
+	},
+	{
+		"_id" : "KRW",
+		"totalBalancePerCurrency" : NumberDecimal("433497.06")
+	},
+	{
+		"_id" : "MVR",
+		"totalBalancePerCurrency" : NumberDecimal("32068.85")
+	},
+	{
+		"_id" : "ZMW",
+		"totalBalancePerCurrency" : NumberDecimal("160940.53")
+	},
+	{
+		"_id" : "UZS",
+		"totalBalancePerCurrency" : NumberDecimal("330309.61")
+	},
+	{
+		"_id" : "CUP",
+		"totalBalancePerCurrency" : NumberDecimal("514413.88")
+	},
+	{
+		"_id" : "AUD",
+		"totalBalancePerCurrency" : NumberDecimal("242667.03")
+	},
+	{
+		"_id" : "MDL",
+		"totalBalancePerCurrency" : NumberDecimal("173318.73")
+	},
+	{
+		"_id" : "KZT",
+		"totalBalancePerCurrency" : NumberDecimal("584923.20")
+	},
+	{
+		"_id" : "JPY",
+		"totalBalancePerCurrency" : NumberDecimal("2584824.90")
+	},
+	{
+		"_id" : "PEN",
+		"totalBalancePerCurrency" : NumberDecimal("2356548.02")
+	},
+	{
+		"_id" : "CDF",
+		"totalBalancePerCurrency" : NumberDecimal("178097.37")
+	},
+	{
+		"_id" : "NPR",
+		"totalBalancePerCurrency" : NumberDecimal("146606.65")
+	},
+	{
+		"_id" : "DJF",
+		"totalBalancePerCurrency" : NumberDecimal("14734.27")
+	},
+	{
+		"_id" : "WST",
+		"totalBalancePerCurrency" : NumberDecimal("30739.64")
+	},
+	{
+		"_id" : "ETB",
+		"totalBalancePerCurrency" : NumberDecimal("269686.62")
+	},
+	{
+		"_id" : "SCR",
+		"totalBalancePerCurrency" : NumberDecimal("14797.58")
+	},
+	{
+		"_id" : "BWP",
+		"totalBalancePerCurrency" : NumberDecimal("146972.04")
+	},
+	{
+		"_id" : "CVE",
+		"totalBalancePerCurrency" : NumberDecimal("46538.51")
+	},
+	{
+		"_id" : "STD",
+		"totalBalancePerCurrency" : NumberDecimal("4854.36")
+	},
+	{
+		"_id" : "RON",
+		"totalBalancePerCurrency" : NumberDecimal("11557.60")
+	},
+	{
+		"_id" : "KGS",
+		"totalBalancePerCurrency" : NumberDecimal("176827.79")
+	},
+	{
+		"_id" : "FJD",
+		"totalBalancePerCurrency" : NumberDecimal("9321.43")
+	},
+	{
+		"_id" : "CZK",
+		"totalBalancePerCurrency" : NumberDecimal("2644211.16")
+	},
+	{
+		"_id" : "MWK",
+		"totalBalancePerCurrency" : NumberDecimal("88106.83")
+	},
+	{
+		"_id" : "AMD",
+		"totalBalancePerCurrency" : NumberDecimal("602964.09")
+	},
+	{
+		"_id" : "TND",
+		"totalBalancePerCurrency" : NumberDecimal("325755.90")
+	},
+	{
+		"_id" : "KES",
+		"totalBalancePerCurrency" : NumberDecimal("269798.11")
+	},
+	{
+		"_id" : "NGN",
+		"totalBalancePerCurrency" : NumberDecimal("1282147.14")
+	},
+	{
+		"_id" : "SEK",
+		"totalBalancePerCurrency" : NumberDecimal("3706221.01")
+	},
+	{
+		"_id" : "LRD",
+		"totalBalancePerCurrency" : NumberDecimal("54883.45")
+	},
+	{
+		"_id" : "PLN",
+		"totalBalancePerCurrency" : NumberDecimal("5065738.36")
+	},
+	{
+		"_id" : "LKR",
+		"totalBalancePerCurrency" : NumberDecimal("225111.39")
+	},
+	{
+		"_id" : "GEL",
+		"totalBalancePerCurrency" : NumberDecimal("157276.96")
+	},
+	{
+		"_id" : "SZL",
+		"totalBalancePerCurrency" : NumberDecimal("59113.09")
+	},
+	{
+		"_id" : "KYD",
+		"totalBalancePerCurrency" : NumberDecimal("16809.66")
+	},
+	{
+		"_id" : "BIF",
+		"totalBalancePerCurrency" : NumberDecimal("45782.33")
+	},
+	{
+		"_id" : "SSP",
+		"totalBalancePerCurrency" : NumberDecimal("42256.53")
+	},
+	{
+		"_id" : "IDR",
+		"totalBalancePerCurrency" : NumberDecimal("15619806.11")
+	},
+	{
+		"_id" : "BYR",
+		"totalBalancePerCurrency" : NumberDecimal("686489.84")
+	},
+	{
+		"_id" : "HKD",
+		"totalBalancePerCurrency" : NumberDecimal("23023.02")
+	},
+	{
+		"_id" : "SLL",
+		"totalBalancePerCurrency" : NumberDecimal("116224.90")
+	},
+	{
+		"_id" : "GNF",
+		"totalBalancePerCurrency" : NumberDecimal("73222.48")
+	},
+	{
+		"_id" : "NZD",
+		"totalBalancePerCurrency" : NumberDecimal("338447.54")
+	},
+	{
+		"_id" : "INR",
+		"totalBalancePerCurrency" : NumberDecimal("24172.94")
+	},
+	{
+		"_id" : "MOP",
+		"totalBalancePerCurrency" : NumberDecimal("5337.77")
+	},
+	{
+		"_id" : "TTD",
+		"totalBalancePerCurrency" : NumberDecimal("44044.89")
+	},
+	{
+		"_id" : "ZAR",
+		"totalBalancePerCurrency" : NumberDecimal("932463.66")
+	},
+	{
+		"_id" : "VND",
+		"totalBalancePerCurrency" : NumberDecimal("1395639.11")
+	},
+	{
+		"_id" : "MUR",
+		"totalBalancePerCurrency" : NumberDecimal("182130.48")
+	},
+	{
+		"_id" : "KHR",
+		"totalBalancePerCurrency" : NumberDecimal("100447.58")
+	},
+	{
+		"_id" : "LBP",
+		"totalBalancePerCurrency" : NumberDecimal("43326.06")
+	},
+	{
+		"_id" : "SBD",
+		"totalBalancePerCurrency" : NumberDecimal("9983.00")
+	},
+	{
+		"_id" : "DOP",
+		"totalBalancePerCurrency" : NumberDecimal("534069.77")
+	},
+	{
+		"_id" : "RUB",
+		"totalBalancePerCurrency" : NumberDecimal("8532474.09")
+	},
+	{
+		"_id" : "JOD",
+		"totalBalancePerCurrency" : NumberDecimal("210496.68")
+	},
+	{
+		"_id" : "MXN",
+		"totalBalancePerCurrency" : NumberDecimal("1547673.09")
+	},
+	{
+		"_id" : "KWD",
+		"totalBalancePerCurrency" : NumberDecimal("82506.07")
+	},
+	{
+		"_id" : "ILS",
+		"totalBalancePerCurrency" : NumberDecimal("758807.63")
+	},
+	{
+		"_id" : "KMF",
+		"totalBalancePerCurrency" : NumberDecimal("138004.70")
+	},
+	{
+		"_id" : "JMD",
+		"totalBalancePerCurrency" : NumberDecimal("201447.71")
+	},
+	{
+		"_id" : "SAR",
+		"totalBalancePerCurrency" : NumberDecimal("161706.00")
+	},
+	{
+		"_id" : "TJS",
+		"totalBalancePerCurrency" : NumberDecimal("177401.05")
+	},
+	{
+		"_id" : "SOS",
+		"totalBalancePerCurrency" : NumberDecimal("82203.48")
+	},
+	{
+		"_id" : "TZS",
+		"totalBalancePerCurrency" : NumberDecimal("603855.99")
+	},
+	{
+		"_id" : "RSD",
+		"totalBalancePerCurrency" : NumberDecimal("817403.54")
+	},
+	{
+		"_id" : "CAD",
+		"totalBalancePerCurrency" : NumberDecimal("1973241.60")
+	},
+	{
+		"_id" : "CRC",
+		"totalBalancePerCurrency" : NumberDecimal("334544.06")
+	},
+	{
+		"_id" : "MGA",
+		"totalBalancePerCurrency" : NumberDecimal("377675.55")
+	}
+]
