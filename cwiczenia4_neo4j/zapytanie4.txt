@@ -1,0 +1,3 @@
+MATCH path = (:town { name: 'Darjeeling' })-[*]->(to)
+WHERE ALL (route IN relationships(path) WHERE route.summer = 'true' AND type(route) = 'twowheeler')
+RETURN DISTINCT to.name AS travel

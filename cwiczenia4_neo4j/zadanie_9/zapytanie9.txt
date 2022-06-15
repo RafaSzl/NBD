@@ -1,0 +1,2 @@
+MATCH (airport:Airport)-[:ORIGIN|:DESTINATION]-(flight:Flight)
+RETURN flight.airline AS airline, COUNT(DISTINCT airport) AS countCities ORDER BY countCities ASC

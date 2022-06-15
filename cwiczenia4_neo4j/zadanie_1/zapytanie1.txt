@@ -1,0 +1,2 @@
+MATCH path = allShortestPaths((:town { name: 'Darjeeling' })-[*]->(:peak { name: 'Sandakphu' }))
+RETURN path
