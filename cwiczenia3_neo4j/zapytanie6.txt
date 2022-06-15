@@ -1,0 +1,2 @@
+MATCH (actor:Person)-[:ACTED_IN]->(movie)
+RETURN DISTINCT actor, count(movie), COLLECT(movie.title) AS movies

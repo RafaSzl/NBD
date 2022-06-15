@@ -1,0 +1,2 @@
+MATCH (people:Person)-[relatedTo]-(:Movie {title: "The Matrix"}) 
+RETURN people, Type(relatedTo), relatedTo

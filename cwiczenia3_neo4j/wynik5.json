@@ -1,0 +1,188 @@
+﻿[
+  {
+    "people": {
+"identity": 8,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1978,
+"name": "Emil Eifrem"
+      }
+    },
+    "Type(relatedTo)": "ACTED_IN",
+    "relatedTo": {
+"identity": 7,
+"start": 8,
+"end": 0,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Emil"
+        ]
+      }
+    }
+  },
+  {
+    "people": {
+"identity": 7,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1952,
+"name": "Joel Silver"
+      }
+    },
+    "Type(relatedTo)": "PRODUCED",
+    "relatedTo": {
+"identity": 6,
+"start": 7,
+"end": 0,
+"type": "PRODUCED",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "people": {
+"identity": 6,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1965,
+"name": "Lana Wachowski"
+      }
+    },
+    "Type(relatedTo)": "DIRECTED",
+    "relatedTo": {
+"identity": 5,
+"start": 6,
+"end": 0,
+"type": "DIRECTED",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "people": {
+"identity": 5,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "Lilly Wachowski"
+      }
+    },
+    "Type(relatedTo)": "DIRECTED",
+    "relatedTo": {
+"identity": 4,
+"start": 5,
+"end": 0,
+"type": "DIRECTED",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "people": {
+"identity": 4,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1960,
+"name": "Hugo Weaving"
+      }
+    },
+    "Type(relatedTo)": "ACTED_IN",
+    "relatedTo": {
+"identity": 3,
+"start": 4,
+"end": 0,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Agent Smith"
+        ]
+      }
+    }
+  },
+  {
+    "people": {
+"identity": 3,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1961,
+"name": "Laurence Fishburne"
+      }
+    },
+    "Type(relatedTo)": "ACTED_IN",
+    "relatedTo": {
+"identity": 2,
+"start": 3,
+"end": 0,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Morpheus"
+        ]
+      }
+    }
+  },
+  {
+    "people": {
+"identity": 2,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1967,
+"name": "Carrie-Anne Moss"
+      }
+    },
+    "Type(relatedTo)": "ACTED_IN",
+    "relatedTo": {
+"identity": 1,
+"start": 2,
+"end": 0,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Trinity"
+        ]
+      }
+    }
+  },
+  {
+    "people": {
+"identity": 1,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1964,
+"name": "Keanu Reeves"
+      }
+    },
+    "Type(relatedTo)": "ACTED_IN",
+    "relatedTo": {
+"identity": 0,
+"start": 1,
+"end": 0,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Neo"
+        ]
+      }
+    }
+  }
+]

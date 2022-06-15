@@ -1,0 +1,2 @@
+MATCH (actor:Person { name: 'Hugo Weaving' })-[:ACTED_IN]->(movie)
+RETURN actor, movie

@@ -1,0 +1,2 @@
+MATCH (mainActor:Person { name: 'Hugo Weaving' })-[:ACTED_IN]->(movie)<-[:ACTED_IN]-(actor)
+RETURN DISTINCT actor

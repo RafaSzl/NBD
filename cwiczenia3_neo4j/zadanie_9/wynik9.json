@@ -1,0 +1,692 @@
+﻿[
+  {
+    "actor": {
+"identity": 175,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1913,
+"name": "Joe Simon"
+      }
+    },
+    "movie": {
+"identity": 171,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Don't win the war till I get there!",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "type": "WROTE",
+    "related": {
+"identity": 256,
+"start": 175,
+"end": 171,
+"type": "WROTE",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 187,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1982,
+"name": "Sebastian Stan"
+      }
+    },
+    "movie": {
+"identity": 171,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Don't win the war till I get there!",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "type": "ACTED_IN",
+    "related": {
+"identity": 268,
+"start": 187,
+"end": 171,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "James Buchanan 'Bucky' Barnes"
+        ]
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 184,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1974,
+"name": "Derek Luke"
+      }
+    },
+    "movie": {
+"identity": 171,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Don't win the war till I get there!",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "type": "ACTED_IN",
+    "related": {
+"identity": 265,
+"start": 184,
+"end": 171,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Gabe Jones"
+        ]
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 183,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1966,
+"name": "Neal McDonough"
+      }
+    },
+    "movie": {
+"identity": 171,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Don't win the war till I get there!",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "type": "ACTED_IN",
+    "related": {
+"identity": 264,
+"start": 183,
+"end": 171,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Timothy 'Dum Dum' Dugan"
+        ]
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 176,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1917,
+"name": "Jack Kirby"
+      }
+    },
+    "movie": {
+"identity": 171,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Don't win the war till I get there!",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "type": "WROTE",
+    "related": {
+"identity": 257,
+"start": 176,
+"end": 171,
+"type": "WROTE",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 190,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1978,
+"name": "JJ Feild"
+      }
+    },
+    "movie": {
+"identity": 171,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Don't win the war till I get there!",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "type": "ACTED_IN",
+    "related": {
+"identity": 271,
+"start": 190,
+"end": 171,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "James Montgomery Falsworth"
+        ]
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 178,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1978,
+"name": "Dominic Cooper"
+      }
+    },
+    "movie": {
+"identity": 171,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Don't win the war till I get there!",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "type": "ACTED_IN",
+    "related": {
+"identity": 259,
+"start": 178,
+"end": 171,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Howard Stark"
+        ]
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 174,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1969,
+"name": "Stephen McFeely"
+      }
+    },
+    "movie": {
+"identity": 171,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Don't win the war till I get there!",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "type": "WROTE",
+    "related": {
+"identity": 255,
+"start": 174,
+"end": 171,
+"type": "WROTE",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 173,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1970,
+"name": "Christopher Markus"
+      }
+    },
+    "movie": {
+"identity": 171,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Don't win the war till I get there!",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "type": "WROTE",
+    "related": {
+"identity": 254,
+"start": 173,
+"end": 171,
+"type": "WROTE",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 180,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1960,
+"name": "Stanley Tucci"
+      }
+    },
+    "movie": {
+"identity": 171,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Don't win the war till I get there!",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "type": "ACTED_IN",
+    "related": {
+"identity": 261,
+"start": 180,
+"end": 171,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Dr. Abraham Erskine"
+        ]
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 191,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Bruno Ricci"
+      }
+    },
+    "movie": {
+"identity": 171,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Don't win the war till I get there!",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "type": "ACTED_IN",
+    "related": {
+"identity": 272,
+"start": 191,
+"end": 171,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Jacques Dernier"
+        ]
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 172,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1950,
+"name": "Joe Johnston"
+      }
+    },
+    "movie": {
+"identity": 171,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Don't win the war till I get there!",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "type": "DIRECTED",
+    "related": {
+"identity": 253,
+"start": 172,
+"end": 171,
+"type": "DIRECTED",
+"properties": {
+
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 186,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1982,
+"name": "Hayley Atwell"
+      }
+    },
+    "movie": {
+"identity": 171,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Don't win the war till I get there!",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "type": "ACTED_IN",
+    "related": {
+"identity": 267,
+"start": 186,
+"end": 171,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Peggy Carter"
+        ]
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 189,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving"
+      }
+    },
+    "movie": {
+"identity": 171,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Don't win the war till I get there!",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "type": "ACTED_IN",
+    "related": {
+"identity": 270,
+"start": 189,
+"end": 171,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Johann Schmidt",
+          "Red Skull"
+        ]
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 182,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1966,
+"name": "Toby Jones"
+      }
+    },
+    "movie": {
+"identity": 171,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Don't win the war till I get there!",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "type": "ACTED_IN",
+    "related": {
+"identity": 263,
+"start": 182,
+"end": 171,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Dr. Arnim Zola"
+        ]
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 177,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1981,
+"name": "Chris Evans"
+      }
+    },
+    "movie": {
+"identity": 171,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Don't win the war till I get there!",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "type": "ACTED_IN",
+    "related": {
+"identity": 258,
+"start": 177,
+"end": 171,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Captain America",
+          "Steve Rogers"
+        ]
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 188,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1946,
+"name": "Tommy Lee Jones"
+      }
+    },
+    "movie": {
+"identity": 171,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Don't win the war till I get there!",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "type": "ACTED_IN",
+    "related": {
+"identity": 269,
+"start": 188,
+"end": 171,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Colonel Chester Phillips"
+        ]
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 181,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1948,
+"name": "Samuel L. Jackson"
+      }
+    },
+    "movie": {
+"identity": 171,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Don't win the war till I get there!",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "type": "ACTED_IN",
+    "related": {
+"identity": 262,
+"start": 181,
+"end": 171,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Nick Fury"
+        ]
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 179,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1971,
+"name": "Richard Armitage"
+      }
+    },
+    "movie": {
+"identity": 171,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Don't win the war till I get there!",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "type": "ACTED_IN",
+    "related": {
+"identity": 260,
+"start": 179,
+"end": 171,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Heinz Kruger"
+        ]
+      }
+    }
+  },
+  {
+    "actor": {
+"identity": 185,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1971,
+"name": "Kenneth"
+      }
+    },
+    "movie": {
+"identity": 171,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "Don't win the war till I get there!",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "type": "ACTED_IN",
+    "related": {
+"identity": 266,
+"start": 185,
+"end": 171,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Choi Jim Morita"
+        ]
+      }
+    }
+  }
+]
