@@ -1,0 +1,12 @@
+$ python3 main.py
+
+New document:
+{'name': 'Izabela', 'surname': 'Lecka', 'salary': 99, 'year': 1000}
+
+
+Modified document:
+{'name': 'Izabela', 'surname': 'Lecka', 'salary': 100, 'year': 1000}
+
+
+Deleted document:
+None
