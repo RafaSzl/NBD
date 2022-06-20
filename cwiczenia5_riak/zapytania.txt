@@ -1,0 +1,33 @@
+1.
+curl.exe -i -XPUT -H "Content-Type:application/json" -d '{"name": "Michal", "surname": "Ebacki", "salary": 100, "year": 1944}' http://localhost:8098/buckets/s24214/keys/Pracownik1
+curl.exe -i -XPUT -H "Content-Type:application/json" -d '{"name": "Wladimir", "surname": "Dabacki", "salary": 200, "year": 1525}' http://localhost:8098/buckets/s24214/keys/Pracownik2
+curl.exe -i -XPUT -H "Content-Type:application/json" -d '{"name": "Macron", "surname": "Abacki", "salary": 300, "year": 1410}' http://localhost:8098/buckets/s24214/keys/Pracownik3
+curl.exe -i -XPUT -H "Content-Type:application/json" -d '{"name": "Andrzej", "surname": "Cabacki", "salary": 400, "year": 966}' http://localhost:8098/buckets/s24214/keys/Pracownik4
+curl.exe -i -XPUT -H "Content-Type:application/json" -d '{"name": "Joe", "surname": "Babicki", "salary": 500, "year": 1968}' http://localhost:8098/buckets/s24214/keys/Pracownik5
+
+2.
+curl.exe -i -XGET http://localhost:8098/buckets/s24214/keys/Pracownik2
+
+3.
+curl.exe -i -XPUT -H 'Content-Type: application/json' -d '{"name": "Michal", "surname": "Ebacki", "salary": 100, "year": 1944, "ilePalcow": 19}' http://localhost:8098/buckets/s24214/keys/Pracownik1
+
+4.
+curl.exe -i -XPUT -H "Content-Type:application/json" -d '{"name": "Michal", "surname": "Ebacki", "salary": 100, "year": 1944}' http://localhost:8098/buckets/s24214/keys/Pracownik1
+
+5. 
+curl.exe -i -XPUT -H "Content-Type:application/json" -d '{"name": "Michal", "surname": "Ebacki", "salary": 10000, "year": 1944}' http://localhost:8098/buckets/s24214/keys/Pracownik1
+
+6.
+curl.exe -i -XDELETE http://localhost:8098/buckets/s24214/keys/Pracownik1
+
+7.
+curl.exe -i http://localhost:8098/buckets/s24214/keys/Pracownik6
+
+8.
+curl.exe -i -XPOST -H "Content-Type:application/json" -d '{"name": "Elzbieta"}' http://localhost:8098/buckets/s24214/keys
+
+9.
+curl.exe -i http://localhost:8098/buckets/s24214/keys/44VDM3kYaFUTpUvtbo5hRclwOdf
+
+10.
+curl.exe -i -XDELETE http://localhost:8098/buckets/s24214/keys/44VDM3kYaFUTpUvtbo5hRclwOdf
